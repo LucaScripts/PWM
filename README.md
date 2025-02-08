@@ -1,4 +1,4 @@
-## 🎯 **Controle de Servomotor com Raspberry Pi Pico**
+# Controle de Servomotor com Raspberry Pi Pico
 
 📌 Autor: Lucas Dias
 
