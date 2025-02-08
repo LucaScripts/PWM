@@ -65,7 +65,7 @@ Após a compilação, copie o arquivo `.uf2` gerado para o Raspberry Pi Pico (mo
 
 Abaixo está uma prévia da simulação do controle do servomotor no **Wokwi**:
 
-![Simulação do Servomotor no Wokwi](#)
+![Simulação do Servomotor no Wokwi](https://github.com/LucaScripts/PWM/blob/main/docs/diagram.json%20-%20pwm%20-%20Visual%20Studio%20Code%202025-02-08%2018-16-53.gif?raw=true)
 
 
 ## Entrega
