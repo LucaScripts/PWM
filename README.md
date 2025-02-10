@@ -5,7 +5,7 @@
 # **Projeto de Controle de Servomotor com RP2040 e BitDogLab**
 
 📌 **Autor**: Lucas Dias  
-📆 **Data**: 05/02/2025  
+📆 **Data**: 10/02/2025  
 
 Este projeto implementa o controle de um servomotor utilizando o microcontrolador **Raspberry Pi Pico W** e o módulo **PWM**. A simulação foi realizada no ambiente **Wokwi**, sem a necessidade de circuitos adicionais de interface.
 
@@ -60,9 +60,24 @@ Este projeto implementa o controle de um servomotor utilizando o microcontrolado
 
 ---
 
+## 📥 Clonando o Repositório e Compilando o Código
+
+Para baixar o código e começar a trabalhar com ele, clone o repositório e carregue o código na placa seguindo os passos abaixo:
+
+![Clonando o Repositório](https://github.com/LucaScripts/PWM/blob/main/docs/Bem-vindo%20-%20Visual%20Studio%20Code%202025-01-31%2018-49-32%20(1).gif?raw=true)
+
+---
+
 ## 🚦 **Demonstração da Simulação Wokwi**
-🔗 [Simulação no Wokwi](https://wokwi.com/projects/422432562065936385)  
-🔗 [Vídeo da Simulação](https://www.dropbox.com/scl/fi/i32f4t9dqggn4c1durb4o/2025-02-04-08-52-05.mkv?rlkey=s6ofq9yumuts3h8chte052cuj&dl=0)  
+
+Abaixo está uma prévia da simulação da comunicação serial no **Wokwi**:
+🔗 [Servo Motor](https://github.com/LucaScripts/PWM/blob/main/docs/diagram.json%20-%20pwm%20-%20Visual%20Studio%20Code%202025-02-08%2018-16-53.gif?raw=true)  
+
+Abaixo está uma prévia da simulação da comunicação serial no **Wokwi** com o LED em paralelo:
+
+🔗 [LED](https://github.com/LucaScripts/PWM/blob/main/docs/diagram.json%20-%20pwm%20-%20Visual%20Studio%20Code%202025-02-08%2018-16-53.gif?raw=true) 
+
+🔗 [Simulação no Wokwi](https://wokwi.com/projects/422542611316324353) 
 
 ---
 
