@@ -83,7 +83,7 @@ Abaixo está uma prévia da simulação da comunicação serial no **Wokwi** com
 
 
 ## 🎥 **Demonstração do Projeto Completo**
-🔗 [Assista à Demonstração](https://drive.google.com/file/d/1fVg4l7feubeo3MYYYcW3coXZ7cTFD5c2/view?usp=sharing)
+🔗 [Assista à Demonstração](https://drive.google.com/file/d/1_ax07drMcusfKGuXP3P1VEitiIQVuKGi/view?usp=sharing)
 
 ---
 
@@ -93,8 +93,3 @@ Abaixo está uma prévia da simulação da comunicação serial no **Wokwi** com
 - **🔄 Otimização do PWM:** Melhor precisão no ajuste dos ângulos.
 
 ---
-
-
-
-
-
