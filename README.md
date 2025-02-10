@@ -7,7 +7,7 @@
 📌 **Autor**: Lucas Dias  
 📆 **Data**: 07/02/2025
 
-Este projeto integra a comunicação serial com o **RP2040**, a placa de desenvolvimento **BitDogLab** e a utilização do módulo **PWM** para controle de um servomotor. Além disso, explora a interação com botões e LEDs.
+Este projeto integra a comunicação serial com o **RP2040**, a placa de desenvolvimento **BitDogLab** e a utilização do módulo **PWM** para controle de um servomotor.
 
 ---
 
