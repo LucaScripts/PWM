@@ -81,6 +81,12 @@ Abaixo está uma prévia da simulação da comunicação serial no **Wokwi** com
 
 ---
 
+
+## 🎥 **Demonstração do Projeto Completo**
+🔗 [Assista à Demonstração](https://drive.google.com/file/d/1fVg4l7feubeo3MYYYcW3coXZ7cTFD5c2/view?usp=sharing)
+
+---
+
 ## 📌 **Melhorias Futuras**
 - **🖥️ Interface Gráfica:** Implementação de controle manual via interface.
 - **📡 Comunicação Serial:** Ajuste do ângulo do servomotor via comandos UART.
@@ -88,8 +94,6 @@ Abaixo está uma prévia da simulação da comunicação serial no **Wokwi** com
 
 ---
 
-## 🎥 **Demonstração do Projeto Completo**
-🔗 [Assista à Demonstração](https://drive.google.com/file/d/1fVg4l7feubeo3MYYYcW3coXZ7cTFD5c2/view?usp=sharing)
 
 
 
