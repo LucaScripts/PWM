@@ -2,8 +2,9 @@
   <img src="https://github.com/LucaScripts/ComunicaoSerial/blob/main/docs/Group%20658.png?raw=true" alt="Logo do Projeto" width="50%"/>
 </div>
 
+<div align="center">
 # **Projeto de Controle de Servomotor com RP2040 e BitDogLab**
-
+</div>
 📌 **Autor**: Lucas Dias  
 📆 **Data**: 05/02/2025  
 
